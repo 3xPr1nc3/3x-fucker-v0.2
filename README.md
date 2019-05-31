@@ -6,7 +6,7 @@ Usage-
     Correct: 3x-fucker-v0.2.php?3x=3x<br>
 Bugs -
 
-    Sometime it gives 404 error page after clicking anything. Like if you clicked Symlinker then your url will look like this -> https://mytarget.com/3x-fucker.php?tool=Symlinker but you see a 404 error page. You just simply add 3x=3x& before tool=Symlinker like this -> https://mytarget.com/3x-fucker.php?3x=3x&tool=Symlinker then there will no 404 page.
+    Sometime it gives 404 error page after clicking anything.<br> Like if you clicked Symlinker then your url will look like this -> https://mytarget.com/3x-fucker.php?tool=Symlinker but you see a 404 error page. You just simply add 3x=3x& before tool=Symlinker like this -> https://mytarget.com/3x-fucker.php?3x=3x&tool=Symlinker then there will no 404 page.
 
     
 Changelogs -
