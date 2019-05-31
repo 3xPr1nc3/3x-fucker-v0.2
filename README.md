@@ -1,4 +1,12 @@
 # 3x-Fucker-v0.2
+Date: 01-06-19
+Usage:
+    Wrong: 3x-fucker-v0.2.php
+    Correct: 3x-fucker-v0.2.php?3x=3x
+    
+Bugs:
+    Sometime it gives 404 error page after clicking anything. Like if you clicked Symlinker then your url will look like this -> https://mytarget.com/3x-fucker.php?tool=Symlinker but you see a 404 error page. You just simply add 3x=3x& before tool=Symlinker like this -> https://mytarget.com/3x-fucker.php?3x=3x&tool=Symlinker then there will no 404 page.
+    
 Changelogs -
 
     Blotewares Removed
@@ -9,3 +17,4 @@ Changelogs -
     Bug Fixed That Caused Destroying Website When Giving Wrong Config Path In Wordpress Mass User Changer
 
 Greetz: Jokr Haxor | Saiyan Haxor
+
