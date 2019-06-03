@@ -10,6 +10,7 @@ Bugs -
 
     
 Changelogs -
+v0.2-1 - 
 
     Blotewares Removed
     Wordpress Mass User Changer Replaced With Mass User Adder
@@ -17,6 +18,11 @@ Changelogs -
     Cpanel Bruteforcer Added [!NEW]
     Check If An Bug Fix Update Is Available [!NEW]
     Bug Fixed That Caused Destroying Website When Giving Wrong Config Path In Wordpress Mass User Changer
-
+ 
+v0.2-2 - 
+    
+    Log Out removed due to no need of usage
+    Session management fixed [!BUG FIX]
+        
 Greetz- Jokr Haxor | Saiyan Haxor
 
