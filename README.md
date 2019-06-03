@@ -23,6 +23,7 @@ v0.2-2 -
     
     Log Out removed due to no need of usage
     Session management fixed [!BUG FIX]
+    Update checker updated so you don't need to check yourself! But in same server it takes time to fix even if u already updated!
         
 Greetz- Jokr Haxor | Saiyan Haxor
 
