@@ -4,7 +4,7 @@
         /**************
         3x-Fucker-v0.2
         Date- 01-06-19
-        Version- 0.2-2
+        Version- Always latest because of CURL
         Usage-
                 Wrong: 3x-fucker-v0.2.php
                 Correct: 3x-fucker-v0.2.php?3x=3x
